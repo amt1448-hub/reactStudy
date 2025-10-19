@@ -28,3 +28,9 @@ export const PROJECTS = [
     githubUrl: "#",
   },
 ];
+ 
+export const SOCIAL = {
+  github: "#",
+  twitter: "#",
+  blog: "#",
+};
